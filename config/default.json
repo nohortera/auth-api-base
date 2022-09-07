@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "secretKey": "<your_port",
+  "databaseUrl": "mongodb+srv://<your_link>"
+}
